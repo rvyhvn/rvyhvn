@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Cyber Security Engineer.
 ------------------------
 
-I'm interested in cyber field since i'm in junior highscool and now i'm studying computer science in Kalimantan Institute of Technology, Indonesia.
+I'm interested in cyber field since i'm in junior high school and now i'm studying computer science in Kalimantan Institute of Technology, Indonesia.
 
 *   🧠  I'm learning Rust, Python, and Linux
 *   🤝  I'm open to collaborating on Cyber fields
