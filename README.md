@@ -1,5 +1,5 @@
 # About Me:
-I'm currently learning about penetration testing in cyber security field.
+I'm currently learning about binary exploitation and reverse engineering in cyber security field, also web development using Django and VueJS.
 
 
 ## 🌐 Socials:
