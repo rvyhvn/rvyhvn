@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">Operating System</h3>
+<h3 align="left">Operating Systems</h3>
 
 ###
 
@@ -22,7 +22,7 @@
 
 ###
 
-<h3 align="left">Programming Language</h3>
+<h3 align="left">Programming Languages</h3>
 
 ###
 
@@ -38,7 +38,7 @@
 
 ###
 
-<h3 align="left">Framework</h3>
+<h3 align="left">Web Frameworks</h3>
 
 ###
 
